@@ -19,4 +19,4 @@ let aluno {
     materiasFavoritas: ["Geografia","Programação","Arte"]
 }
 const objeto = document.querySelector("#aluno");
-objeto.textContent = aluno1.idade;
+objeto.textContent = aluno 1.idade;1
